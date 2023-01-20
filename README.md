@@ -18,12 +18,12 @@ pip install rich
 
 pip install mechanize
 
-rm -rf crack-fb
+rm -rf php
 
-git clone https://github.com/Rands-mkz/crack-fb
+git clone https://github.com/Rands-mkz/php
 
-cd crack-fb
+cd php
 
 git pull
 
-python crack.py
+python run.py
